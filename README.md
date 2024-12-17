@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file for your **Bike Store API** project:
+
 
 ---
 
