@@ -29,8 +29,7 @@ This is an API for managing a Bike Store, built with **Express**, **TypeScript**
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Error Handling](#error-handling)
-- [Contribution](#contribution)
-- [License](#license)
+
 
 ## Installation
 
