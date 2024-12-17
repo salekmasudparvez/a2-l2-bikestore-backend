@@ -43,12 +43,12 @@ This is an API for managing a Bike Store, built with **Express**, **TypeScript**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bike-store-api.git
+   git clone https://github.com/salekmasudparvez/a2-l2-bikestore-backend.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd bike-store-api
+   cd a2-l2-bikestore-backend
    ```
 
 3. Install dependencies:
@@ -59,8 +59,7 @@ This is an API for managing a Bike Store, built with **Express**, **TypeScript**
 4. Set up your **MongoDB** connection in the `app.ts` file (or use a service like MongoDB Atlas):
    ```typescript
    mongoose.connect('mongodb://localhost:27017/bike-store')
-     .then(() => console.log('Connected to MongoDB'))
-     .catch(err => console.log('Failed to connect to MongoDB', err));
+     
    ```
 
 5. Run the application:
@@ -228,14 +227,6 @@ The API uses proper error handling for various scenarios, including:
 }
 ```
 
-## Contribution
 
-Feel free to fork this repository and submit a pull request with improvements or bug fixes. Ensure that your code follows best practices and is well-documented.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides clear instructions for setting up the project, details about each API endpoint, and examples of how to interact with the API. You can modify the contents as needed, especially if the project has additional features or requirements.
